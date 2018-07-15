@@ -9,4 +9,4 @@ some skills of using ubuntu
 
 [Installing Dependencies on Ubuntu 16.04 LTS towards SLAM Projects](https://youjiexia.github.io/2018/03/10/Installing-Dependencies-on-Ubuntu-towards-SLAM-Projects/)
 
-[Install Linux apps in seconds | Snap Store](https://snapcraft.io/store)
+[ubuntu下使用git的简单使用](https://blog.csdn.net/szj_huhu/article/details/77541345)
