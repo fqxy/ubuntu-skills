@@ -24,3 +24,8 @@ sudo apt-get install zsh
 sudo apt-get install git
 sudo wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh
 chsh -s /bin/zsh
+
+# Clion
+tar -zxvf CLion-2018.1.6.tar.gz
+cd clion-2018.1.6/bin/
+./clion.sh
