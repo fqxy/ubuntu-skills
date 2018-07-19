@@ -12,3 +12,5 @@ some skills of using ubuntu
 [ubuntu下使用git的简单使用](https://blog.csdn.net/szj_huhu/article/details/77541345)
 
 [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
+
+[ubuntu 常用软件源](https://hefang.link/linux-2/ubuntu-common-use-repository.html)
