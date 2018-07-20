@@ -25,6 +25,14 @@ sudo apt-get install git
 sudo wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh
 chsh -s /bin/zsh
 
+# zsh补全插件
+cd ~/.oh-my-zsh/plugins/
+mkdir incr
+cd incr
+mv ~/incr*.zsh .
+echo "source ~/.oh-my-zsh/plugins/incr/incr*.zsh" >> ~/.zshrc
+source ~/.zshrc
+
 # Clion
 tar -zxvf CLion-2018.1.6.tar.gz
 cd clion-2018.1.6/bin/
@@ -35,12 +43,8 @@ sudo sh -c '. /etc/lsb-release && echo "deb http://mirrors.ustc.edu.cn/ros/ubunt
 sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key 421C365BD9FF1F717815A3895523BAEEB01FA116
 sudo apt-get update
 sudo apt-get install ros-kinetic-desktop-full
-
-# ()
 sudo rosdep init
 rosdep update
-
 echo "source /opt/ros/kinetic/setup.zsh" >> ~/.zshrc
 source ~/.zshrc
-
 sudo apt-get install python-rosinstall python-rosinstall-generator python-wstool build-essential
