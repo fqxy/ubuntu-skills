@@ -48,3 +48,9 @@ rosdep update
 echo "source /opt/ros/kinetic/setup.zsh" >> ~/.zshrc
 source ~/.zshrc
 sudo apt-get install python-rosinstall python-rosinstall-generator python-wstool build-essential
+
+# electron-ssr
+# https://github.com/erguotou520/electron-ssr/releases
+# electron-ssr-*-x86_64.AppImage
+sudo chmod +x electron-ssr-*-x86_64.AppImage
+./electron-ssr-*-x86_64.AppImage

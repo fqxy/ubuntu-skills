@@ -14,3 +14,5 @@ some skills of using ubuntu
 [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 
 [ubuntu 常用软件源](https://hefang.link/linux-2/ubuntu-common-use-repository.html)
+
+[shadowsocks配合chrome插件SwitchyOmega](https://blog.csdn.net/shouldnotappearcalm/article/details/77900399)
