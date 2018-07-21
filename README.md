@@ -16,3 +16,5 @@ some skills of using ubuntu
 [ubuntu 常用软件源](https://hefang.link/linux-2/ubuntu-common-use-repository.html)
 
 [shadowsocks配合chrome插件SwitchyOmega](https://blog.csdn.net/shouldnotappearcalm/article/details/77900399)
+
+[Linux命令大全](http://man.linuxde.net/)
