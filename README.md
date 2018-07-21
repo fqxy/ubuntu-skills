@@ -18,3 +18,8 @@ some skills of using ubuntu
 [shadowsocks配合chrome插件SwitchyOmega](https://blog.csdn.net/shouldnotappearcalm/article/details/77900399)
 
 [Linux命令大全](http://man.linuxde.net/)
+
+
+[Linux Ubuntu16.04 安装Python3.6](https://blog.csdn.net/menciushometown/article/details/77688728)
+
+[ubuntu16.4 如何成功安装python3.6和pip3](https://blog.csdn.net/gzh8579/article/details/79530144)

@@ -28,7 +28,7 @@ sudo apt-get update
 sudo apt-get install ultra-flat-icons
 ```
 
-## 终端zsh
+## oh-my-zsh
 ```
 sudo apt-get install zsh
 sudo apt-get install git
