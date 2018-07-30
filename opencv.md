@@ -24,7 +24,7 @@ vim /home/fq/Downloads/opencv-3.3.1/3rdparty/ippicv/ippicv.cmake
 
 # 改47行
 # "https://raw.githubusercontent.com/opencv/opencv_3rdparty/${IPPICV_COMMIT}/ippicv/"
-# file:///home/fq/Downloads/
+# "file:///home/fq/Downloads/"
 
 ```
 
