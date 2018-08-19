@@ -21,3 +21,7 @@ some skills of using ubuntu
 
 
 [ubuntu安装python3.6](https://www.cnblogs.com/yqpy/p/9116590.html)
+
+[update-alternatives](https://jingyan.baidu.com/article/ff42efa92a64c9c19e2202d2.html)
+
+[vscode利用cmake调试](https://blog.csdn.net/code_segment/article/details/81151443)
